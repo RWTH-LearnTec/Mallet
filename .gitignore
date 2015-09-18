@@ -2,6 +2,7 @@ class
 dist/mallet-deps.jar
 dist/mallet.jar
 /target/
+/bin/
 .classpath
 .project
 .settings/
