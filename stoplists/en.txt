@@ -50,6 +50,7 @@ available
 away
 awfully
 b
+based
 be
 became
 because
@@ -100,6 +101,7 @@ could
 course
 currently
 d
+das
 definitely
 described
 despite
@@ -245,6 +247,7 @@ ltd
 m
 mainly
 many
+make
 may
 maybe
 me
@@ -316,6 +319,7 @@ over
 overall
 own
 p
+paper
 particular
 particularly
 per
