@@ -12,9 +12,17 @@
 package cc.mallet.pipe;
 
 
-import java.util.HashSet;
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.io.ObjectInputStream;
+import java.io.ObjectOutputStream;
+import java.io.Serializable;
 import java.util.ArrayList;
-import java.io.*;
+import java.util.HashSet;
 
 import cc.mallet.types.FeatureSequenceWithBigrams;
 import cc.mallet.types.Instance;
@@ -213,6 +221,7 @@ public class TokenSequenceRemoveStopwords extends Pipe implements Serializable
 		"along",
 		"already",
 		"also",
+ "der", "die", "das", "paper", "papers",
 		"although",
 		"always",
 		"am",
